@@ -11,16 +11,15 @@
 
 ## Skills
 
-+ HTML
-+ CSS
-+ JavaScript (basic)
-+ Git
++ *HTML*
++ *CSS*
++ *JavaScript (basic)*
++ *Git*
 ---
 
 ## Expierence
 
 **Education**: ***Gomel State University***, *Degree in law*, 1999-2004
-
 **Job**: ***Gomel Regional Bar Association***, *advocate*, 2005-2022
 ---
 
